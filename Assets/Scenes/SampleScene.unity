@@ -514,7 +514,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Target: {fileID: 1778784442}
-  speed: 0.7
+  speed: 0.5
   detectionRadius: 5
   chaseRadius: 15
   attackRadius: 4
